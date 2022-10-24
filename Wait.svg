@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E30613;}
+	.st1{fill:#FFED00;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#F6F6F6;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#F2F2F2;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFDE00;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<rect x="0" class="st0" width="841.89" height="595.28"/>
+<g>
+	<g>
+
+    
+	<polygon class="st1" points="330.15,214.38 330.19,198.76 290.13,230.29 		">     </polygon>
+	  as
+		<polygon class="st1" points="321.72,229.63 268.7,250.33 268.63,274.78 286.24,267.91 286.26,260.47 		">
+		
+		</polygon>
+		<polygon class="st1" points="320.68,247.98 358.99,231.57 359.03,215.41 		"/>
+		<polygon class="st2" points="253.32,241.45 253.25,265.9 268.63,274.78 268.7,250.33 		"/>
+		<polygon class="st2" points="286.26,260.47 286.24,267.91 286.19,284.92 301.52,293.77 301.59,269.32 		"/>
+		<polygon class="st1" points="390.21,233.41 301.59,269.32 301.52,293.77 390.14,257.86 		"/>
+		<polygon class="st3" points="321.72,229.63 286.26,260.47 301.59,269.32 390.21,233.41 375.08,224.68 358.99,231.57 
+			320.68,247.98 359.03,215.41 346.2,208 330.15,214.38 290.13,230.29 330.19,198.76 314.97,189.97 253.32,241.45 268.7,250.33 ">
+			     <animateTransform
+	 attributeName="transform"
+	 begin="1s"
+      from=" 0 1000"
+      to="  0 700 "
+      dur="20s"
+      repeatCount="1" /> 
+			</polygon>
+	</g>
+	<g>
+      <animateTransform
+	 attributeName="transform"
+	 begin="0.5s"
+      from="0"
+      to="0 50"	
+      dur="2s"
+      repeatCount="1" />
+	    <animateTransform
+	 attributeName="transform"
+	 begin="1s"
+      from="0 50"
+      to="0 "
+      dur="2s"
+      repeatCount="1" />
+		<polygon class="st1" points="418.59,273.35 384.73,284.85 398.86,293 		"/>
+		<polygon class="st1" points="349.32,296.87 349.25,321.33 368.69,314.73 368.76,290.28 		"/>
+		<polygon class="st2" points="333.16,287.54 333.09,312 349.25,321.33 349.32,296.87 		"/>
+		<polygon class="st1" points="389.59,302.3 368.76,290.28 368.69,314.73 378.24,320.25 378.26,313.58 		"/>
+		<polygon class="st2" points="378.26,313.58 378.24,320.25 378.19,338.04 394.51,347.46 394.58,323 		"/>
+		<polygon class="st1" points="445.94,265.59 394.58,323 394.51,347.46 445.87,290.04 		"/>
+		<path class="st3" d="M368.76,290.28l20.83,12.03l-11.33,11.28l16.31,9.42l51.36-57.42l-13.98-8.07l-98.8,30.03l16.16,9.33
+			L368.76,290.28z M418.59,273.35L398.86,293l-14.13-8.16L418.59,273.35z"/>
+	</g>
+	<g>
+
+        <animateTransform
+	 attributeName="transform"
+	 begin="1s"
+      from="0"
+      to="0 50"	
+      dur="2s"
+      repeatCount="1" />
+	      <animate attributeName="opacity"
+    xlink:href="#circles"
+    values="0; 1;" dur="0.1s" begin="0.4"
+    data-id="circles"
+    repeatCount="1"
+    fill="freeze"
+    />
+	    <animateTransform
+	 attributeName="transform"
+	 begin="2s"
+      from="0 50"
+      to="0 "
+      dur="2s"
+      repeatCount="1" />
+		<polygon class="st1" points="509.78,302.44 434.62,346.12 434.55,370.58 509.71,326.9 		"/>
+		<polygon class="st2" points="419.35,337.3 419.28,361.76 434.55,370.58 434.62,346.12 		"/>
+		<polygon class="st3" points="509.78,302.44 494.51,293.63 419.35,337.3 434.62,346.12 		"/>
+	</g>
+	<g>
+
+        <animateTransform
+	 attributeName="transform"
+	 begin="2s"
+      from="0"
+      to="0 50"	
+      dur="2s"
+      repeatCount="1" />
+	    <animateTransform
+	 attributeName="transform"
+	 begin="3s"
+      from="0 50"
+      to="0 "
+      dur="2s"
+      repeatCount="1" />
+		<polygon class="st1" points="523.56,325.06 523.5,346.4 541.96,335.67 		"/>
+		<polygon class="st1" points="557.28,344.52 557.21,368.98 575.92,379.78 575.99,355.32 		"/>
+		<polygon class="st1" points="575.99,355.32 575.92,379.78 588.57,372.43 588.64,347.97 		"/>
+		<polygon class="st2" points="479.45,372 479.38,396.46 494.7,405.3 494.77,380.85 		"/>
+		<polygon class="st4" points="494.77,380.85 494.7,405.3 557.21,368.98 557.28,344.52 		"/>
+		<polygon class="st3" points="557.28,344.52 575.99,355.32 588.64,347.97 536.21,317.7 523.56,325.06 541.96,335.67 523.5,346.4 
+			479.45,372 494.77,380.85 "/>
+	</g>
+</g>
+</svg>
