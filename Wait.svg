@@ -12,6 +12,20 @@
 <rect x="0" class="st0" width="841.89" height="595.28"/>
 <g>
 	<g>
+	      <animateTransform
+	 attributeName="transform"
+	 begin="0.5s"
+      from="0"
+      to="0 50"	
+      dur="2s"
+      repeatCount="1" />
+	    <animateTransform
+	 attributeName="transform"
+	 begin="1s"
+      from="0 50"
+      to="0 "
+      dur="2s"
+      repeatCount="1" />
 
     
 	<polygon class="st1" points="330.15,214.38 330.19,198.76 290.13,230.29 		">     </polygon>
@@ -25,26 +39,20 @@
 		<polygon class="st1" points="390.21,233.41 301.59,269.32 301.52,293.77 390.14,257.86 		"/>
 		<polygon class="st3" points="321.72,229.63 286.26,260.47 301.59,269.32 390.21,233.41 375.08,224.68 358.99,231.57 
 			320.68,247.98 359.03,215.41 346.2,208 330.15,214.38 290.13,230.29 330.19,198.76 314.97,189.97 253.32,241.45 268.7,250.33 ">
-			     <animateTransform
-	 attributeName="transform"
-	 begin="1s"
-      from=" 0 1000"
-      to="  0 700 "
-      dur="20s"
-      repeatCount="1" /> 
+	
 			</polygon>
 	</g>
 	<g>
       <animateTransform
 	 attributeName="transform"
-	 begin="0.5s"
+	 begin="0.75s"
       from="0"
       to="0 50"	
       dur="2s"
       repeatCount="1" />
 	    <animateTransform
 	 attributeName="transform"
-	 begin="1s"
+	 begin="1.25s"
       from="0 50"
       to="0 "
       dur="2s"
